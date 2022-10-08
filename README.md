@@ -12,7 +12,7 @@ Due to the fact that, there are no know outcome, Machine Learning model will be 
 	* Libraries: Scikit-learn, Plotly, hvPlot, Pandas
 
 
-#### We Applied:
+#### We Applied
 
 *	Data Preprocessing (Selection, Transformation, Scaling) – this helps to prepare/process the data for Machine Learning Algorithms.
 *	Elbow Curve - method to determine the best number of clusters needed for the algorithm to group the objects by.
@@ -20,7 +20,7 @@ Due to the fact that, there are no know outcome, Machine Learning model will be 
 *	Clustering Algorithms (KMeans) - the process of grouping similar objects/data points into clusters.
 *	Visualization (hvPlot, Plotly) - graphic libraries that allows us to create 2D and 3D graphs such as, scatter plots.
 
-#### Output:
+#### Output
 
 <img width="742" alt="coin_table" src="https://user-images.githubusercontent.com/106555873/194721517-2e3506c6-277c-42d3-aae3-b1337746dc06.png">
 
