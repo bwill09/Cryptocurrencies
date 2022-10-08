@@ -7,9 +7,9 @@ The aim of this evaluation was meant to utilize data to showcase a report and vi
 
 Due to the fact that, there are no know outcome, Machine Learning model will be used to allow us to execute a clustering algorithms to group the cryptocurrencies.
 
-	* Dataset from [CryptoCompare](https://github.com/bwill09/Cryptocurrencies/blob/main/crypto_data.csv)
-	* Software: Python 3.9.12 , Connda 4.14.0, Jupyter Notebooks 6.4.8
-	* Libraries: Scikit-learn, Plotly, hvPlot, Pandas
+* Dataset from [CryptoCompare](https://github.com/bwill09/Cryptocurrencies/blob/main/crypto_data.csv)
+* Software: Python 3.9.12 , Connda 4.14.0, Jupyter Notebooks 6.4.8
+* Libraries: Scikit-learn, Plotly, hvPlot, Pandas
 
 
 #### We Applied
